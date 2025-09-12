@@ -1,0 +1,85 @@
+{
+  "name": "Andrew Cao",
+  "tagline": "I am an ambitious computer science undergraduate student with expertise in Python and Java, seeking a cybersecurity position to develop security strategy skills.",
+  "headshot": "images/headshot.JPG",
+  "contact": {
+    "address": "2133 Cape Liberty Dr, Suwanee, GA 30024",
+    "phone": "(415) 917-6321",
+    "email": "andrewcaosf@gmail.com",
+    "linkedin": "https://www.linkedin.com/in/andrewcao1123"
+  },
+  "education": [
+    {
+      "school": "University of Georgia",
+      "gpa": "3.98",
+      "degree": "Bachelor of Science in Computer Science",
+      "graduation_date": "May 2026"
+    },
+    {
+      "school": "Georgia State University",
+      "gpa": "4.21",
+      "degree": "Bachelor of Science in Computer Science",
+      "graduation_date": "May 2024" 
+    }
+  ],
+  "honors_and_awards": [
+    {
+      "honor": "President's List",
+      "date": "2022-2024"
+    },
+    {
+      "honor": "Dean's List",
+      "date": "2024-2025"
+    }
+  ],
+  "skills": [
+    "Python",
+    "Java",
+    "HTML",
+    "CSS",
+    "JavaScript",
+    "React"
+  ],
+  "leadership_and_experience": [
+    {
+      "position": "Server at bb.q chicken",
+      "date": "May 2025 - Present",
+      "link": "https://bbqchicken.com/"
+    },
+    {
+      "position": "Delivery Driver at Domino's Pizza",
+      "date": "July 2024 - September 2024",
+      "link": "https://www.dominos.com/?redirect=homepage&utm_source=google&utm_medium=loclist&utm_campaign=localmaps"
+    },
+    {
+      "position": "Receptionist at Avanti Nail Spa",
+      "date": "July 2022 - November 2022"
+    }
+  ],
+  "projects": [
+    {
+      "title": "Weather Data Fetcher",
+      "descr": [
+        "Developed a Java application that retrieves real-time weather data for a specific location using two APIs",
+        "Integrated a weather API to fetch temperature, humidity, and weather conditions based on location coordinates",
+        "Implemented a geolocation API to convert latitude and longitude into city names and vice versa",
+        "Utilized HTTP requests and JSON parsing to process API responses"
+      ]
+    },
+    {
+      "title": "Cinema E-Booking System",
+      "descr": [
+        "Full-stack web application for signing up, logging in, and booking movies with a clean, responsive UI",
+        "Building a secure online movie ticketing platform with authentication, booking workflows, and database integration",
+        "Team project applying software engineering principles to design and implement a functional movie booking website"
+      ]
+    },
+    {
+      "title": "Intrusion Detection System (IDS)",
+      "descr": [
+        "Implement an IDS using tools like Snort or Suricata to monitor network traffic for suspicious activity"
+      ]
+    }
+  ]
+  
+}
